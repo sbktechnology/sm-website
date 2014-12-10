@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include systematrix_website *.css
+recursive-include systematrix_website *.csv
+recursive-include systematrix_website *.html
+recursive-include systematrix_website *.ico
+recursive-include systematrix_website *.js
+recursive-include systematrix_website *.json
+recursive-include systematrix_website *.md
+recursive-include systematrix_website *.png
+recursive-include systematrix_website *.py
+recursive-include systematrix_website *.svg
+recursive-include systematrix_website *.txt
+recursive-exclude systematrix_website *.pyc
