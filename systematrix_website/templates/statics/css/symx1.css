@@ -1,0 +1,59 @@
+body {
+	background-image: url(../bg.jpg);
+	background-repeat: no-repeat;
+	background-position:center;
+	margin-top: 20px;
+}
+.nav {
+	font-family: "Trebuchet MS";
+	font-size: 13px;
+	font-weight: normal;
+}
+.pagetitle {
+	font-family: "Trebuchet MS";
+	font-size: 15px;
+	font-weight: normal;
+	color: #005197;
+	text-decoration: none;
+}
+.external {
+	font-family: "Trebuchet MS";
+	font-size: 10px;
+	color: #666666;
+}
+a:link {
+	color: #336699;
+	text-decoration: underline;
+}
+a:visited {
+	color: #336699;
+}
+a:hover {
+	text-decoration: none;
+	color: #336699;
+}
+a:active {
+	text-decoration: underline;
+}
+.pagetitle1 {
+
+	font-family: "Trebuchet MS";
+	font-size: 15px;
+	font-weight: normal;
+	color: #005197;
+	text-decoration: none;
+}
+.pagetitle2 {
+
+	font-family: "Trebuchet MS";
+	font-size: 12px;
+	font-weight: normal;
+	color: #005197;
+	text-decoration: none;
+}
+.nav1 {
+
+	font-family: "Trebuchet MS";
+	font-size: 11px;
+	font-weight: normal;
+}
