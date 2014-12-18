@@ -3,14 +3,14 @@
 <p class="nav">The services offered by Systematrix include:</p>
 <p class="pagetitle">
 <ul>
-<li class="nav"><a href="ourservices_IT.html">IT Services </a>
+<li class="nav"><a href="services/IT_services">IT Services </a>
 <ul>
-<li><a href="ourservices_IT_consulting.html">Consulting</a></li>
-<li><a href="ourservices_IT_AD.html">Application Development</a></li>
-<li><a href="ourservices_IT_SI.html">System Integration</a> </li>
+<li><a href="services/IT_services/IT_consulting">Consulting</a></li>
+<li><a href="services/IT_services/application_development">Application Development</a></li>
+<li><a href="services/IT_services/system_integration">System Integration</a> </li>
 </ul>
 </li>
-<li class="nav"><a href="ourservices_security.html">Security Services </a></li>
-<li class="nav"><a href="ourservices_ites.html">ITES</a></li>
+<li class="nav"><a href="services/security_services">Security Services </a></li>
+<li class="nav"><a href="services/IT_enabled_services">ITES</a></li>
 </ul>
 </p>

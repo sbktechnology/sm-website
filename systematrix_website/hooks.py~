@@ -8,9 +8,8 @@ app_email = "info@systematrix.co.in"
 app_url = "https://frappe.io/apps/systematrix_website"
 app_version = "0.0.1"
 
-web_include_css = ["assets/frappe_io/css/frappe-io-web.css", "assets/frappe/css/hljs.css"]
+web_include_css = ["assets/snp_ws/css/frappe-io-web.css", "assets/frappe/css/hljs.css"]
 web_include_js = "/assets/frappe/js/lib/highlight.pack.js"
-
 
 fixtures = [
 	"Website Settings",

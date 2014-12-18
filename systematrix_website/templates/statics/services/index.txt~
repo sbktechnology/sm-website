@@ -1,8 +1,7 @@
-services
-services_IT
-services_security
-services_ites
-services_cases
+IT_services
+security_services
+IT_enabled_services
+case_studies
 application_development
 services_IT_consulting
 services_IT_SI
